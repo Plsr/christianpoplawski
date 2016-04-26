@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/Plsr/christianpoplawski/issues"
   },
-  "homepage": "https://github.com/Plsr/christianpoplawski#readme"
+  "homepage": "https://github.com/Plsr/christianpoplawski#readme",
+  "devDependencies": {
+    "browser-sync": "^2.12.5",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1",
+    "gulp-shell": "^0.5.2"
+  }
 }
